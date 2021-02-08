@@ -1,1 +1,1 @@
-# Motor-Vehicle-Collisions-Study
+# Motor Vehicle Collisions Study
